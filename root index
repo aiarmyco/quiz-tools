@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz Toolkit - Main Index</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    a {
+      text-decoration: none;
+      background: #0073e6;
+      color: #fff;
+      padding: 10px 15px;
+      border-radius: 5px;
+      display: inline-block;
+    }
+    a:hover {
+      background: #005bb5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiz Toolkit</h1>
+  <p>Welcome! Below are links to each tool/quiz we've built. Click any link to open the quiz.</p>
+  <ul>
+    <li><a href="selfcare/">Self-Care Assessment</a></li>
+    <li><a href="emotionaliq/">Emotional IQ Quiz</a></li>
+    <li><a href="fourfactor/">4-Factor Personality Test</a></li>
+    <li><a href="personalvalues/">Personal Values Assessment</a></li>
+    <li><a href="selfesteem/">Self-Esteem Quiz</a></li>
+    <li><a href="careerpath/">Career Path Explorer Quiz</a></li>
+    <li><a href="stress/">Stress Management Test</a></li>
+    <li><a href="adultadhd/">Adult ADHD Self Screen</a></li>
+    <li><a href="big5/">Big Five Personality Test</a></li>
+    <li><a href="aq/">Autism Spectrum Quotient (AQ)</a></li>
+  </ul>
+</body>
+</html>
